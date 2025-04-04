@@ -29,7 +29,4 @@ Then:
 - Stores a unique, sliding window of up to 10 numbers.
 - Returns previous and current window states, the numbers fetched, and their average.
 
----
-
-## 📁 Folder Structure
 
